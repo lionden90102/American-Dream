@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flexbox;
+    text-align: center;
+    background-color: black;
+    color: aqua;
+    height: auto;
+    width: auto;
+}
+img {
+    width: 50vh;
+    height: auto;
+    border: none;
+    border-radius: 0;
+}
+.button {
+        background-color: #1c87c9;
+        border: none;
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        cursor: pointer;
+}
